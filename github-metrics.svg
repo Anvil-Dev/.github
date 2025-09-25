@@ -594,6 +594,24 @@
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">QiuShui1012</div>
+                                        closed
+                                        <span class="issue">#2320 [Bug] 激活的动力滑轨对着栅栏或石墙会导致其上的方块抽搐</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by romomoland in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">TowardtheStars</div>
                                         closed
                                         <span class="issue">#2781 [Bug] 用树脂捕捉部分生物会引起服务器崩溃</span>
@@ -655,24 +673,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by crybee121322 in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">XeKr</div>
-                                        closed
-                                        <span class="issue">#2644 [Bug] 余烬锻造台问题</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by burin-ljx in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
                                 </div>
                             </section>
                         </div>
