@@ -590,6 +590,42 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">TowardtheStars</div>
+                                        opened
+                                        <span class="issue">#2822 [Feature] 矿物涌泉在侧面方块匹配配方时不生成火山灰</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by TowardtheStars in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">TowardtheStars</div>
+                                        opened
+                                        <span class="issue">#2821 [Feature] 用 JEI/EMI 查看矿物涌泉生成方块的配方</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by TowardtheStars in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -637,42 +673,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by ytyxd in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">CgAu3</div>
-                                        opened
-                                        <span class="issue">#2812 [Feature] 让电感灯的防刷怪模式防止刷猪灵和疣猪兽</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by CgAu3 in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">CgAu3</div>
-                                        opened
-                                        <span class="issue">#2811 [Bug] 副手使用某些物品后铁砧锤左键功能失效</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by CgAu3 in <span class="repo">Anvil-Dev/AnvilCraft</span></div>
                                 </div>
                             </section>
                         </div>
