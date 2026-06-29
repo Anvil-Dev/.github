@@ -54,14 +54,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="21.283316880552814" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="21.283316880552814" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="21.283316880552814" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="21.283316880552814" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="21.283316880552814" y="0" width="198.71668311944717" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="21.468703794972892" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="21.468703794972892" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="21.468703794972892" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="21.468703794972892" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="21.468703794972892" y="0" width="198.5312962050271" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -69,14 +69,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">196 <small>open</small></span>
+                                <span class="no-wrap">198 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">1830 <small>closed</small></span>
+                                <span class="no-wrap">1831 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -99,13 +99,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.5386875612144957" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.5386875612144957" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="0.5386875612144957" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="0.5386875612144957" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0.5386875612144957" y="0" width="11.096963761018609" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="11.635651322233105" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="11.635651322233105" y="0" width="208.36434867776688" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.6448461162677088" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.6448461162677088" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0.6448461162677088" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0.6448461162677088" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0.6448461162677088" y="0" width="11.069858329262335" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="11.714704445530044" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="11.714704445530044" y="0" width="208.28529555446997" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -113,13 +113,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">5 <small>open</small></span>
+                                <span class="no-wrap">6 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">1934 <small>merged</small></span>
+                                <span class="no-wrap">1938 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,14 +153,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.7054704734902" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.7054704734902" y="0" width="2.5589312346441875" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="456.2644017081344" y="0" width="1.0675321101675674" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="457.33193381830193" y="0" width="0.8577977020144687" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.1897315203164" y="0" width="0.8215312049231296" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.01126272523953" y="0" width="0.4767199360721759" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.4879826613117" y="0" width="0.35386857490768076" height="8" fill="#9DC3FF"/>
-                    <rect mask="url(#languages-bar)" x="459.8418512362194" y="0" width="0.15814876378062878" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.71558599540197" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.71558599540197" y="0" width="2.5548189455738535" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="456.27040494097577" y="0" width="1.065816549948739" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="457.3362214909245" y="0" width="0.8564191920854817" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.19264068301004" y="0" width="0.820210976481972" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.012851659492" y="0" width="0.4759538310060534" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.48880549049807" y="0" width="0.3532998961353769" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="459.8421053866335" y="0" width="0.15789461336658986" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -252,13 +252,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        249
+                                        248
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        61
+                                        60
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -271,7 +271,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        1.93k
+                                        1.94k
                                     </div>
                                 </div>
                             </section>
@@ -395,35 +395,35 @@
                                 </g>
                             </g>
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,29.50584795321639)">
+                                <g class="tick" opacity="1" transform="translate(0,28.04385964912281)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">300</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,58.74561403508773)">
+                                <g class="tick" opacity="1" transform="translate(0,57.283625730994146)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">280</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,87.98538011695908)">
+                                <g class="tick" opacity="1" transform="translate(0,86.5233918128655)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">260</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,117.22514619883043)">
+                                <g class="tick" opacity="1" transform="translate(0,115.76315789473684)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">240</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,146.46491228070175)">
+                                <g class="tick" opacity="1" transform="translate(0,145.00292397660817)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">220</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,175.7046783625731)">
+                                <g class="tick" opacity="1" transform="translate(0,174.24269005847952)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">200</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,204.94444444444446)">
+                                <g class="tick" opacity="1" transform="translate(0,203.48245614035088)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">180</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,234.18421052631578)">
+                                <g class="tick" opacity="1" transform="translate(0,232.7222222222222)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">160</text>
                                 </g>
@@ -445,18 +445,18 @@
                                 <circle transform="translate(10,10)" cx="424.14835164835165" cy="21.695906432748536" r="2" fill="#106cbc"/>
                             </g>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="260" fill="rgba(127, 127, 127, .8)">142</text>
-                                <text transform="translate(10,6)" x="48.324175824175825" y="208.83040935672514" fill="rgba(127, 127, 127, .8)">177</text>
-                                <text transform="translate(10,6)" x="86.64835164835165" y="148.8888888888889" fill="rgba(127, 127, 127, .8)">218</text>
-                                <text transform="translate(10,6)" x="123.73626373626374" y="128.42105263157896" fill="rgba(127, 127, 127, .8)">232</text>
-                                <text transform="translate(10,6)" x="162.06043956043956" y="116.72514619883043" fill="rgba(127, 127, 127, .8)">240</text>
-                                <text transform="translate(10,6)" x="199.14835164835165" y="109.41520467836257" fill="rgba(127, 127, 127, .8)">245</text>
-                                <text transform="translate(10,6)" x="237.47252747252747" y="100.64327485380116" fill="rgba(127, 127, 127, .8)">251</text>
-                                <text transform="translate(10,6)" x="275.7967032967033" y="83.09941520467837" fill="rgba(127, 127, 127, .8)">263</text>
-                                <text transform="translate(10,6)" x="310.4120879120879" y="81.63742690058481" fill="rgba(127, 127, 127, .8)">264</text>
-                                <text transform="translate(10,6)" x="348.7362637362637" y="50.93567251461988" fill="rgba(127, 127, 127, .8)">285</text>
-                                <text transform="translate(10,6)" x="385.8241758241758" y="36.31578947368421" fill="rgba(127, 127, 127, .8)">295</text>
-                                <text transform="translate(10,6)" x="424.14835164835165" y="21.695906432748536" fill="rgba(127, 127, 127, .8)">305</text>
+                                <text transform="translate(10,6)" x="10" y="260" fill="rgba(127, 127, 127, .8)">141</text>
+                                <text transform="translate(10,6)" x="48.324175824175825" y="208.83040935672514" fill="rgba(127, 127, 127, .8)">176</text>
+                                <text transform="translate(10,6)" x="86.64835164835165" y="148.8888888888889" fill="rgba(127, 127, 127, .8)">217</text>
+                                <text transform="translate(10,6)" x="123.73626373626374" y="128.42105263157896" fill="rgba(127, 127, 127, .8)">231</text>
+                                <text transform="translate(10,6)" x="162.06043956043956" y="116.72514619883043" fill="rgba(127, 127, 127, .8)">239</text>
+                                <text transform="translate(10,6)" x="199.14835164835165" y="109.41520467836257" fill="rgba(127, 127, 127, .8)">244</text>
+                                <text transform="translate(10,6)" x="237.47252747252747" y="100.64327485380116" fill="rgba(127, 127, 127, .8)">250</text>
+                                <text transform="translate(10,6)" x="275.7967032967033" y="83.09941520467837" fill="rgba(127, 127, 127, .8)">262</text>
+                                <text transform="translate(10,6)" x="310.4120879120879" y="81.63742690058481" fill="rgba(127, 127, 127, .8)">263</text>
+                                <text transform="translate(10,6)" x="348.7362637362637" y="50.93567251461988" fill="rgba(127, 127, 127, .8)">284</text>
+                                <text transform="translate(10,6)" x="385.8241758241758" y="36.31578947368421" fill="rgba(127, 127, 127, .8)">294</text>
+                                <text transform="translate(10,6)" x="424.14835164835165" y="21.695906432748536" fill="rgba(127, 127, 127, .8)">304</text>
                             </g>
                         </svg>
                     </section>
